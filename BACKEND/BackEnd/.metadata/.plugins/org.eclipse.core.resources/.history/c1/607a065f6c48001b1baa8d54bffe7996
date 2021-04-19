@@ -1,0 +1,5 @@
+package com.bot.core.service;
+
+public class TransactionService {
+
+}

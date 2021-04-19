@@ -1,0 +1,11 @@
+package com.bot.core.service;
+
+public class TransactionService {
+	private String accountNo;
+	private String gmail;
+	private String transType;
+	private float amount;
+	private float balance;
+	private String transTime;
+
+}
